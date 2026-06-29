@@ -1,0 +1,22 @@
+{
+  "name": "mcp-warden",
+  "owner": {
+    "name": "Gabriel Zavelinski"
+  },
+  "metadata": {
+    "description": "Marketplace hosting the mcp-warden plugin."
+  },
+  "plugins": [
+    {
+      "name": "mcp-warden",
+      "description": "Vet an MCP server before enabling: security & compatibility sheet, static scan, ALLOW/REVIEW/BLOCK verdict.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Gabriel Zavelinski"
+      },
+      "source": "./",
+      "category": "security",
+      "homepage": "https://github.com/Zavelinski/mcp-warden"
+    }
+  ]
+}

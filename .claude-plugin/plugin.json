@@ -1,0 +1,20 @@
+{
+  "name": "mcp-warden",
+  "version": "0.1.0",
+  "description": "Vet an MCP server before enabling it. Produces a security & compatibility sheet, statically scans the server as hostile data, and returns an ALLOW / REVIEW / BLOCK verdict. The MCP sibling of skill-security-scan.",
+  "author": {
+    "name": "Gabriel Zavelinski"
+  },
+  "homepage": "https://github.com/Zavelinski/mcp-warden",
+  "repository": "https://github.com/Zavelinski/mcp-warden",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "security",
+    "prompt-injection",
+    "supply-chain",
+    "vetting",
+    "claude-code",
+    "trust"
+  ]
+}
